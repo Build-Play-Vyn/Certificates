@@ -6,10 +6,11 @@ This repository contains certificates from my technical training, seminars, work
 
 ## 📂 Certificate Categories
 
-### 💻 Programming and Software Development
+## 🤖 Artificial Intelligence
+
 | Certificate | Issuing Organization | Date |
 |---|---|---|
-| Add certificate name here | Organization | Month Year |
+| [Introduction to Artificial Intelligence]([https://lms.simplilearn.com/courses/3667/Introduction-to-Artificial-Intelligence/certificate/download-skillup](https://github.com/Build-Play-Vyn/Certificates/blob/main/Artificial-Intelligence/Introduction%20to%20Artificial%20Intelligence.pdf)) | [Simplilearn](https://www.simplilearn.com/) | August 16, 2026 |
 
 
 ## 🔌 IoT and Embedded Systems
@@ -18,19 +19,6 @@ This repository contains certificates from my technical training, seminars, work
 |---|---|---|
 | [Introduction to IoT](https://github.com/Build-Play-Vyn/Certificates/blob/main/IoT-and-Embedded-Systems/Introduction%20to%20IoT%20Cert.pdf) | [Simplilearn](https://www.simplilearn.com/) | November 12, 2026 |
 
----
-
-This repository serves as a record of my continuous learning and professional development.
-
-### 🌐 Networking and Technology
-| Certificate | Issuing Organization | Date |
-|---|---|---|
-| Add certificate name here | Organization | Month Year |
-
-### 🎓 Seminars and Academic Achievements
-| Certificate | Issuing Organization | Date |
-|---|---|---|
-| Add certificate name here | Organization | Month Year |
 
 ---
 
