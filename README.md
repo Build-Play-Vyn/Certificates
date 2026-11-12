@@ -16,7 +16,9 @@ This repository contains certificates from my technical training, seminars, work
 
 | Certificate | Issuing Organization | Date |
 |---|---|---|
-| [Introduction to IoT](./IoT-and-Embedded-Systems/Introduction-to-IoT-Cert.pdf) | [Simplilearn](https://www.simplilearn.com/) | November 12, 2026 |
+| [Introduction to IoT](https://github.com/Build-Play-VynE/Certificates/blob/main/IoT-and-Embedded-Systems/Introduction%20to%20IoT%20Cert.pdf) | [Simplilearn](https://www.simplilearn.com/) | November 12, 2026 |
+
+📂 [View All My Certificates](https://github.com/Build-Play-Vyn/Certificates)
 
 ---
 
