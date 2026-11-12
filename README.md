@@ -11,10 +11,16 @@ This repository contains certificates from my technical training, seminars, work
 |---|---|---|
 | Add certificate name here | Organization | Month Year |
 
-### 🔌 IoT and Embedded Systems
+
+## 🔌 IoT and Embedded Systems
+
 | Certificate | Issuing Organization | Date |
 |---|---|---|
-| Add certificate name here | Organization | Month Year |
+| [Introduction to IoT](./IoT-and-Embedded-Systems/Introduction-to-IoT-Cert.pdf) | [Simplilearn](https://www.simplilearn.com/) | November 12, 2026 |
+
+---
+
+This repository serves as a record of my continuous learning and professional development.
 
 ### 🌐 Networking and Technology
 | Certificate | Issuing Organization | Date |
