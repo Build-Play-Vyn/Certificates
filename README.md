@@ -10,7 +10,7 @@ This repository contains certificates from my technical training, seminars, work
 
 | Certificate | Issuing Organization | Date |
 |---|---|---|
-| [Introduction to Artificial Intelligence]([https://lms.simplilearn.com/courses/3667/Introduction-to-Artificial-Intelligence/certificate/download-skillup](https://github.com/Build-Play-Vyn/Certificates/blob/main/Artificial-Intelligence/Introduction%20to%20Artificial%20Intelligence.pdf)) | [Simplilearn](https://www.simplilearn.com/) | August 16, 2026 |
+| [Introduction to Artificial Intelligence](https://github.com/Build-Play-Vyn/Certificates/blob/main/Artificial-Intelligence/Introduction%20to%20Artificial%20Intelligence.pdf) | [Simplilearn](https://www.simplilearn.com/) | August 16, 2026 |
 
 
 ## 🔌 IoT and Embedded Systems
